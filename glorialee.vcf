@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lee;Gloria;;;
+FN:Gloria Lee
+ORG:Ioli Labs
+ADR;TYPE=WORK:
+TITLE:COO
+TEL;TYPE=CELL:+6594384862
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=WORK:gloria@ioli.io
+URL;TYPE=Digital Business Card:
+URL:https://www.ioli.io/
+URL;TYPE=Website:https://www.ioli.io/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100035576
+END:VCARD
